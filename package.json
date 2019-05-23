@@ -2,7 +2,7 @@
   "name": "example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "raydragneel.github.io/raydragneel.github.io",
+  "homepage": "raydragneel.github.io/my-react-app",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
