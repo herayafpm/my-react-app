@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "raydragneel.github.io/my-react-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "raydragneel.github.io/my-react-app/static/js/main.0f9ebd76.chunk.js",
+    "main.js.map": "raydragneel.github.io/my-react-app/static/js/main.0f9ebd76.chunk.js.map",
+    "runtime~main.js": "raydragneel.github.io/my-react-app/static/js/runtime~main.5b9f12a2.js",
+    "runtime~main.js.map": "raydragneel.github.io/my-react-app/static/js/runtime~main.5b9f12a2.js.map",
+    "static/js/2.65aa1cca.chunk.js": "raydragneel.github.io/my-react-app/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "raydragneel.github.io/my-react-app/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "raydragneel.github.io/my-react-app/index.html",
+    "precache-manifest.0d52890e79e52d70cdd10394bb1e2672.js": "raydragneel.github.io/my-react-app/precache-manifest.0d52890e79e52d70cdd10394bb1e2672.js",
+    "service-worker.js": "raydragneel.github.io/my-react-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "raydragneel.github.io/my-react-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "raydragneel.github.io/my-react-app/static/media/logo.5d5d9eef.svg"
+  }
+}
